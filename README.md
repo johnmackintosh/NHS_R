@@ -16,3 +16,20 @@ Planned:
 - gganimate demo
 
 - alternative flow plots 
+
+
+Participation optional
+
+## Required packages:
+
+
+tidyverse
+lubridate
+scales
+readxl
+gifski
+plotly
+ggExtra
+here
+officer
+
