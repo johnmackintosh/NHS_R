@@ -23,13 +23,13 @@ Participation optional
 ## Required packages:
 
 
-tidyverse
-lubridate
-scales
-readxl
-gifski
-plotly
-ggExtra
-here
-officer
+tidyverse  
+lubridate  
+scales  
+readxl  
+gifski  
+plotly  
+ggExtra  
+here  
+officer  
 
