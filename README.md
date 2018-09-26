@@ -32,6 +32,7 @@ plotly
 ggExtra  
 here  
 officer  
+magrittr
 
 
 
