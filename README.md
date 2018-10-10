@@ -46,5 +46,5 @@ If you think you might want to follow along
 
 2- Create a new project in RStudio for this session
 
-3 - download the Excel and pptx files that will appear here and save them to your project folder
+3 - download the Excel and pptx files that will appear here and save them to your project folder  
 4 - follow me on Twitter @_johnmackintosh 
