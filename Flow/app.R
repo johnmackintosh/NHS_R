@@ -60,7 +60,7 @@ server <- function(input, output) {
       ggtitle(label = "Anytown General Hospital | Wednesday 3rd September 2014 00:00 to 23:59\n",
               subtitle = paste0(var1," ARRIVALS, DEPARTURES AND TRANSFERS")) +
       labs(x = NULL, y = NULL,caption = "NHS-R conference") +
-      theme_ipsum(base_family = "Arial Narrow") +
+      theme_minimal() +
       theme(legend.position = "bottom") +
       theme(panel.grid.minor = element_blank()) +
       theme(strip.text.y = element_text(angle = 180)) +
