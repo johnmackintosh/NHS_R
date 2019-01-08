@@ -52,4 +52,4 @@ If you think you might want to follow along
 
 5 - follow me on Twitter @_johnmackintosh 
 
-6 - Feel free to get in contact via my firstname dot mysurname dot nhs dot net
+6 - Feel free to get in contact via my firstname dot mysurname at nhs dot net
