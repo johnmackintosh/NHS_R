@@ -50,6 +50,6 @@ If you think you might want to follow along
 
 4 - The  file ‘app.R’ builds a minimal Shiny app, it should be saved in a separate sub folder within your project folder
 
-5 - follow me on Twitter @_johnmackintosh 
+5 - say hi / follow on Twitter @_johnmackintosh 
 
 6 - Feel free to get in contact via my firstname dot mysurname at nhs dot net
